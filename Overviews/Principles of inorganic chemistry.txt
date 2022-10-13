@@ -1,0 +1,34 @@
+=====================================================================
+|          OVERVIEW OF : Principles of inorganic chemistry          |
+=====================================================================
+| Aimed at senior undergraduates and first-year graduate students,  |
+| this book offers a principles-based approach to inorganic         |
+| chemistry that, unlike other texts, uses chemical applications    |
+| of group theory and molecular orbital theory throughout           |
+| as an underlying framework. This highly physical approach         |
+| allows students to derive the greatest benefit of topics such     |
+| as molecular orbital acid-base theory, band theory of solids,     |
+| and inorganic photochemistry, to name a few. Takes a              |
+| principles-based, group and molecular orbital theory approach     |
+| to inorganic chemistry The first inorganic chemistry textbook     |
+| to provide a thorough treatment of group theory, a topic usually  |
+| relegated to only one or two chapters of texts, giving it only    |
+| a cursory overview Covers atomic and molecular term symbols,      |
+| symmetry coordinates in vibrational spectroscopy using the        |
+| projection operator method, polyatomic MO theory, band theory,    |
+| and Tanabe-Sugano diagrams Includes a heavy dose of group theory  |
+| in the primary inorganic textbook, most of the pedagogical        |
+| benefits of integration and reinforcement of this material        |
+| in the treatment of other topics, such as frontier MO acid--base  |
+| theory, band theory of solids, inorganic photochemistry,          |
+| the Jahn-Teller effect, and Wade's rules are fully realized       |
+| Very physical in nature compare to other textbooks in the field,  |
+| taking the time to go through mathematical derivations            |
+| and to compare and contrast different theories of bonding         |
+| in order to allow for a more rigorous treatment of their          |
+| application to molecular structure, bonding, and spectroscopy     |
+| Informal and engaging writing style; worked examples throughout   |
+| the text; unanswered problems in every chapter; contains          |
+| a generous use of informative, colorful illustrations             |
+|                                                                   |
+=====================================================================

@@ -1,0 +1,11 @@
+========================================================
+|          OVERVIEW OF : Concept Of Physics 1          |
+========================================================
+| The book, "Concepts of Physics", is written by Dr    |
+| H.C. Verma and published by Bharati Bhavan. The      |
+| book is divided into two volumes. The first volume   |
+| covers mechanics, waves, and optics whereas second   |
+| volume covers thermodynamics, electromagnetism,      |
+| and modern physics. This is the first volume.        |
+|                                                      |
+========================================================

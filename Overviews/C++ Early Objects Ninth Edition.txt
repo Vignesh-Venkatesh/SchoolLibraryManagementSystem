@@ -1,0 +1,10 @@
+===================================================================
+|          OVERVIEW OF : C++ Early Objects Ninth Edition          |
+===================================================================
+| Starting Out with C++: Early Objects introduces the             |
+| fundamentals of C++ programming in clear, easy-to-understand    |
+| language, making it accessible to novice programming            |
+| students. The text is designed for use in two- and three-term   |
+| C++ programming sequences, as well as in accelerated            |
+| one-term programs.                                              |
+===================================================================

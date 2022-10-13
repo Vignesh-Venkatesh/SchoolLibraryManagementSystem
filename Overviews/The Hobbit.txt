@@ -1,0 +1,16 @@
+==============================================
+|          OVERVIEW OF : The Hobbit          |
+==============================================
+| Bilbo Baggins lives a simple life with     |
+| his fellow hobbits in the shire, until     |
+| the wizard Gandalf arrives and convinces   |
+| him to join a group of dwarves on a quest  |
+| to reclaim the kingdom of Erebor. The      |
+| journey takes Bilbo on a path through      |
+| treacherous lands swarming with orcs,      |
+| goblins and other dangers, not the least   |
+| of which is an encounter with Gollum       |
+| and a simple gold ring that is tied to     |
+| the fate of Middle Earth in ways Bilbo     |
+| cannot even fathom.                        |
+==============================================

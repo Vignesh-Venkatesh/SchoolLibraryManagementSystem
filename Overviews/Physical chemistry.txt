@@ -1,0 +1,12 @@
+======================================================
+|          OVERVIEW OF : Physical chemistry          |
+======================================================
+| The coverage spans large variety of topics         |
+| including Gaseous State, Liquid State, Solid       |
+| State, Colloidal State, Chemical Kinetics,         |
+| Thermodynamics, Chemical Equilibrium,              |
+| Distribution Law, Electrochemistry,                |
+| Atomic Structure and Wave Mechanics,               |
+| Spectroscopy, Photochemistry, Polymers and         |
+| Nuclear Chemistry.                                 |
+======================================================
